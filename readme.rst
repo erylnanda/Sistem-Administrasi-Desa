@@ -33,11 +33,3 @@ Instalasi & Konfigurasi
 4. Untuk namafolder silahkan kalian ganti sesuai nama folder dari aplikasi ini di komputer atau laptop kalian
 5. Untuk login kalian bisa register terlebih dahulu atau menggunakan username = admin dan password 1
 
-*********
-Tentang Saya
-*********
-Saya salah satu Mahasiswa di Perguruan Tinggi swasta Karawang 
-
-
-https://www.instagram.com/khoirulsyarif/
-
